@@ -1,2 +1,5 @@
 # hello-world
-Just a new programer
+
+Hi people!
+
+My name is Pixealizado, and i don't are a programer 🙁
